@@ -28,7 +28,7 @@
   "devDependencies": {
     "@semantic-release/git": "^9.0.0",
     "@types/fs-extra": "^9.0.11",
-    "@types/jest": "^26.0.22",
+    "@types/jest": "^29.5.0",
     "@types/js-yaml": "^4.0.0",
     "@types/nodemailer": "^6.4.1",
     "@types/prettier": "^2.2.3",
